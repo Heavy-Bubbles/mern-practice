@@ -1,5 +1,4 @@
 import {create} from "zustand"
-import Product from "../../../backend/models/product.model"
 
 export const useProductStore = create((set) => ({
     products: [],
