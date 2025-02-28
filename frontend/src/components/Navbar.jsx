@@ -4,7 +4,6 @@ import { FiPlusSquare } from "react-icons/fi"
 import { ColorModeButton } from './ui/color-mode'
 
 const Navbar = () => {
-    console.log("IS RENDERED")
   return (
         <Container maxW={"1140px"} px={4}>
            <Flex
